@@ -1,0 +1,4 @@
+12-12-2024 18:44:54 : Auth/GetToken:- Get Token Called
+12-12-2024 19:37:28 : Auth/GetToken:- Get Token Called
+12-12-2024 19:37:53 : AuthRepository/FindClient : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+12-12-2024 19:38:08 : Auth/GetToken:- Get Token Called

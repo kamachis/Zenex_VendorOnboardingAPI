@@ -1,0 +1,24 @@
+12-06-2024 11:45:45 :- Registration link has been sent successfully from kamachi@exalca.com
+12-06-2024 11:45:48 :- Registration link has been sent successfully to kamachi@exalca.com
+12-06-2024 11:45:48 :-  sendmailstatusTrue
+12-06-2024 11:45:50 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for de
+12-06-2024 12:08:22 :- Registration link has been sent successfully from kamachi@exalca.com
+12-06-2024 12:08:24 :- Registration link has been sent successfully to kamachi@exalca.com
+12-06-2024 12:08:24 :-  sendmailstatusTrue
+12-06-2024 12:08:25 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for fr
+12-06-2024 12:14:37 :- Registration link has been sent successfully from kamachi@exalca.com
+12-06-2024 12:14:39 :- Registration link has been sent successfully to kamachi@exalca.com
+12-06-2024 12:14:39 :-  sendmailstatusTrue
+12-06-2024 12:14:39 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for gt
+12-06-2024 12:22:31 :- Registration link has been sent successfully from kamachi@exalca.com
+12-06-2024 12:22:33 :- Registration link has been sent successfully to kamachi@exalca.com
+12-06-2024 12:22:33 :-  sendmailstatusTrue
+12-06-2024 12:22:33 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for de
+12-06-2024 12:43:01 :- Registration link has been sent successfully from kamachi@exalca.com
+12-06-2024 12:43:05 :- Registration link has been sent successfully to kamachi@exalca.com
+12-06-2024 12:43:05 :-  sendmailstatusTrue
+12-06-2024 12:43:06 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for xsdefr
+12-06-2024 12:58:41 :- Registration link has been sent successfully from kamachi@exalca.com
+12-06-2024 12:58:44 :- Registration link has been sent successfully to kamachi@exalca.com
+12-06-2024 12:58:44 :-  sendmailstatusTrue
+12-06-2024 12:58:46 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for resed

@@ -1,0 +1,30 @@
+2024-06-21 21:57:33 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-21 21:57:33 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-21 21:57:36 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-21 21:57:36 :-  sendmailstatusTrue
+2024-06-21 21:57:38 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for juksw
+2024-06-21 22:07:43 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-21 22:07:43 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-21 22:07:45 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-21 22:07:45 :-  sendmailstatusTrue
+2024-06-21 22:07:46 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for fr
+2024-06-21 22:08:59 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-21 22:09:00 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-21 22:09:01 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-21 22:09:01 :-  sendmailstatusTrue
+2024-06-21 22:09:02 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for aqsw
+2024-06-21 22:10:17 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-21 22:10:17 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-21 22:10:19 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-21 22:10:19 :-  sendmailstatusTrue
+2024-06-21 22:10:20 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for gtfr
+2024-06-21 22:11:09 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-21 22:11:09 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-21 22:11:10 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-21 22:11:10 :-  sendmailstatusTrue
+2024-06-21 22:11:11 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for swq
+2024-06-21 22:30:48 :- WriteToFile
+2024-06-21 22:34:00 :- WriteToFile
+2024-06-21 22:34:07 :- WriteToFile
+2024-06-21 22:34:08 :- WriteToFile
+2024-06-21 22:39:31 :- WriteToFile

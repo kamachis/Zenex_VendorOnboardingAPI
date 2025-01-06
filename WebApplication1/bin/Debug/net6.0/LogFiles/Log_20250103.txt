@@ -1,0 +1,17 @@
+03-01-2025 13:01:44 : Auth/GetToken:- Get Token Called
+03-01-2025 13:01:45 : Auth/GetToken:- Get Token Called
+03-01-2025 13:14:44 : Auth/GetToken:- Get Token Called
+03-01-2025 13:19:15 : Auth/GetToken:- Get Token Called
+03-01-2025 15:45:48 : Auth/GetToken:- Get Token Called
+03-01-2025 15:46:30 : Auth/GetToken:- Get Token Called
+03-01-2025 16:02:20 : Auth/GetToken:- Get Token Called
+03-01-2025 16:05:26 : AuthRespository/VendorLogin/ :-  :- Incorrect Password
+03-01-2025 16:05:36 : AuthRespository/VendorLogin/ :-  :- Incorrect Password
+03-01-2025 16:05:43 : AuthRespository/VendorLogin/ :-  :- Incorrect Password
+03-01-2025 16:44:12 : Auth/GetToken:- Get Token Called
+03-01-2025 16:44:12 : AuthRepository/FindClient : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+03-01-2025 16:44:13 : Auth/GetToken:- Get Token Called
+03-01-2025 16:44:13 : AuthRepository/FindClient : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+03-01-2025 16:44:40 : Auth/GetToken:- Get Token Called
+03-01-2025 16:45:02 : AuthRepository/FindClient : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+03-01-2025 16:46:21 : Auth/GetToken:- Get Token Called

@@ -1,0 +1,18 @@
+2024-06-18 10:21:12 : Auth/GetToken:- Get Token Called
+2024-06-18 10:46:14 : Auth/GetToken:- Get Token Called
+2024-06-18 10:47:19 : Auth/GetToken:- Get Token Called
+2024-06-18 10:54:28 : Auth/GetToken:- Get Token Called
+2024-06-18 11:20:48 : Registration/InitializeVendorRegistration :- A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)
+2024-06-18 11:24:11 : Auth/GetToken:- Get Token Called
+2024-06-18 11:25:41 : Auth/GetToken:- Get Token Called
+2024-06-18 11:43:40 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+2024-06-18 11:43:40 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+2024-06-18 11:45:11 : Auth/GetToken:- Get Token Called
+2024-06-18 11:46:57 : Auth/GetToken:- Get Token Called
+2024-06-18 12:43:07 : Auth/GetToken:- Get Token Called
+2024-06-18 12:44:38 : Auth/GetToken:- Get Token Called
+2024-06-18 13:19:32 : Auth/GetToken:- Get Token Called
+2024-06-18 13:20:12 : Auth/GetToken:- Get Token Called
+2024-06-18 13:21:27 : Auth/GetToken:- Get Token Called
+2024-06-18 13:22:17 : Auth/GetToken:- Get Token Called
+2024-06-18 16:16:24 : Auth/GetToken:- Get Token Called

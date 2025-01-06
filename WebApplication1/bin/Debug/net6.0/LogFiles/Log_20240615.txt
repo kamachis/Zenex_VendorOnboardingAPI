@@ -1,0 +1,25 @@
+15-06-2024 11:52:42 : Auth/GetToken:- Get Token Called
+15-06-2024 11:52:46 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+15-06-2024 11:52:46 : Auth/GetToken :- The user name or password is incorrect.
+15-06-2024 11:54:40 : Auth/GetToken:- Get Token Called
+15-06-2024 11:54:41 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+15-06-2024 11:54:41 : Auth/GetToken :- The user name or password is incorrect.
+15-06-2024 11:54:59 : Auth/GetToken:- Get Token Called
+15-06-2024 11:54:59 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+15-06-2024 11:54:59 : Auth/GetToken :- The user name or password is incorrect.
+15-06-2024 11:55:05 : Auth/GetToken:- Get Token Called
+15-06-2024 11:55:05 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+15-06-2024 11:55:05 : Auth/GetToken :- The user name or password is incorrect.
+15-06-2024 11:55:32 : Auth/GetToken:- Get Token Called
+15-06-2024 11:55:55 : Auth/GetToken:- Get Token Called
+15-06-2024 12:00:44 : Master/CreateUser : -  :- User with the same email address already exists
+15-06-2024 12:01:24 : Master/CreateUser : -  :- User with same name already exist
+15-06-2024 13:14:01 : Auth/GetToken:- Get Token Called
+15-06-2024 13:15:05 : Auth/GetToken:- Get Token Called
+15-06-2024 13:17:35 : Auth/GetToken:- Get Token Called
+15-06-2024 13:20:33 : Auth/GetToken:- Get Token Called
+15-06-2024 13:43:43 : Master/SendLinkToMail : -  :- User name vf@exalca.com is not registered!
+15-06-2024 13:43:44 : Master/SendResetLinkToMail : -  :- User name vf@exalca.com is not registered!
+15-06-2024 13:50:26 : Auth/GetToken:- Get Token Called
+15-06-2024 13:53:50 : Auth/GetToken:- Get Token Called
+15-06-2024 13:56:23 : Auth/GetToken:- Get Token Called

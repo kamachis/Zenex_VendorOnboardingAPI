@@ -1,0 +1,651 @@
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Zenex.exe
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Zenex.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CopyComplete
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Exalca\DotNet\Projects\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+C:\Exalca\DotNet\Projects\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.Up2Date
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.Up2Date
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+C:\Users\Exalca\Desktop\Zenex\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CopyComplete
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+D:\Downloads\25-11-2024\Zenex 9\Zenex 9\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.staticwebassets.endpoints.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.Up2Date
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+E:\Exalca\Zenex (3)\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.staticwebassets.endpoints.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.Up2Date
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+E:\Exalca\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CopyComplete
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CopyComplete
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll
+D:\Exalca\Angular\Zenex\03Jan2025\Zenex (3) -qas\Zenex\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\libman.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.staticwebassets.endpoints.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.exe
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.deps.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.runtimeconfig.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Zenex.pdb
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.AssemblyReference.cache
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfoInputs.cache
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.AssemblyInfo.cs
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.CoreCompileInputs.cache
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\Zenex.styles.css
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.Zenex.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zenex.props
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zenex.props
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zenex.props
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.csproj.Up2Date
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\refint\Zenex.dll
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.pdb
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\Zenex.genruntimeconfig.cache
+C:\Users\Exalca.DESKTOP-7FNODV3\Downloads\Zenex 4\Zenex\WebApplication1\obj\Debug\net6.0\ref\Zenex.dll

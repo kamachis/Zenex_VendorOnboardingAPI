@@ -1,0 +1,14 @@
+04-06-2024 10:34:21 : AuthRespository/VendorLogin/ :-  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+04-06-2024 16:15:03 : Auth/GetToken:- Get Token Called
+04-06-2024 16:19:15 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+04-06-2024 16:19:15 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+04-06-2024 16:57:10 : FieldMasterRepository/GetAllOnBoardingFieldMaster : -  :- Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+04-06-2024 16:57:11 : Master/GetAllIdentitys :- Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+04-06-2024 16:57:12 : Master/GetAllOnBoardingFieldMaster :- Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+04-06-2024 16:57:20 : Registration/InitializeVendorRegistration :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+04-06-2024 16:58:07 : Auth/GetToken:- Get Token Called
+04-06-2024 16:58:13 : FieldMasterRepository/GetAllOnBoardingFieldMaster : -  :- Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+04-06-2024 16:58:13 : Master/GetAllOnBoardingFieldMaster :- Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+04-06-2024 16:58:14 : AuthRepository/FindClient : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+04-06-2024 16:58:14 : Master/GetAllIdentitys :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+04-06-2024 16:58:51 : Auth/GetToken:- Get Token Called

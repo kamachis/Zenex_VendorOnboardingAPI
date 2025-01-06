@@ -1,0 +1,5 @@
+2024-06-26 15:56:21 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-26 15:56:21 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-26 15:56:24 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-26 15:56:24 :-  sendmailstatusTrue
+2024-06-26 15:56:26 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for ded

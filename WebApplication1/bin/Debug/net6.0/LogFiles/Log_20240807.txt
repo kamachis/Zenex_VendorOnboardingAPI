@@ -1,0 +1,38 @@
+08-07-2024 10:33:45 : Auth/GetToken:- Get Token Called
+08-07-2024 10:33:46 : Auth/GetToken:- Get Token Called
+08-07-2024 10:33:51 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+08-07-2024 10:33:52 : Auth/GetToken :- The user name or password is incorrect.
+08-07-2024 10:33:52 : Auth/GetToken :- The user name or password is incorrect.
+08-07-2024 10:36:51 : Auth/GetToken:- Get Token Called
+08-07-2024 10:37:29 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:37:29 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:38:13 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:38:13 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:47:22 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:47:22 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:48:50 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:48:50 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:52:36 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:52:36 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:53:55 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 10:53:56 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:42:04 : Master/SendLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:42:04 : Master/SendResetLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:43:36 : Master/SendLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:43:36 : Master/SendResetLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:45:04 : Master/SendLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:45:04 : Master/SendResetLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:48:00 : Master/SendLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:48:00 : Master/SendResetLinkToMail : -  :- An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+08-07-2024 13:52:28 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:52:28 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:52:47 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:52:47 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:53:17 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:53:17 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:56:34 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:56:34 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:57:13 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 13:57:39 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 14:00:07 : Master/SendLinkToMail : -  :- User name sankar.r@exalca.com is not registered!
+08-07-2024 14:00:08 : Master/SendResetLinkToMail : -  :- User name sankar.r@exalca.com is not registered!

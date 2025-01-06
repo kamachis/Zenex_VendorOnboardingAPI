@@ -1,0 +1,30 @@
+2024-06-20 15:19:36 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-20 15:19:36 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-20 15:19:38 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-20 15:19:38 :-  sendmailstatusTrue
+2024-06-20 15:19:40 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for derr
+2024-06-20 15:56:36 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-20 15:56:36 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-20 15:56:38 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-20 15:56:38 :-  sendmailstatusTrue
+2024-06-20 15:56:38 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for de
+2024-06-20 16:04:42 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-20 16:04:42 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-20 16:04:43 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-20 16:04:43 :-  sendmailstatusTrue
+2024-06-20 16:04:44 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for defred
+2024-06-20 18:04:19 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-20 18:04:19 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-20 18:04:21 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-20 18:04:21 :-  sendmailstatusTrue
+2024-06-20 18:04:22 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for frgty
+2024-06-20 18:11:27 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-20 18:11:27 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-20 18:11:28 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-20 18:11:28 :-  sendmailstatusTrue
+2024-06-20 18:11:29 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for dedee
+2024-06-20 18:51:31 :- VendorOnBoardingRepository/VendorCreate 
+2024-06-20 18:51:31 :- Registration link has been sent successfully from kamachi@exalca.com
+2024-06-20 18:51:34 :- Registration link has been sent successfully to kamachi@exalca.com
+2024-06-20 18:51:34 :-  sendmailstatusTrue
+2024-06-20 18:51:35 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for frdedde

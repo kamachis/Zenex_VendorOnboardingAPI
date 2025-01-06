@@ -1,0 +1,28 @@
+12-06-2024 11:28:55 : Auth/GetToken:- Get Token Called
+12-06-2024 11:36:57 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+12-06-2024 11:36:57 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+12-06-2024 11:37:50 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+12-06-2024 11:37:50 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+12-06-2024 11:38:34 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+12-06-2024 11:38:34 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+12-06-2024 11:39:15 : Auth/GetToken:- Get Token Called
+12-06-2024 11:41:55 : Auth/GetToken:- Get Token Called
+12-06-2024 12:21:52 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+12-06-2024 12:21:52 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+12-06-2024 12:22:17 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+12-06-2024 12:22:17 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+12-06-2024 12:25:00 : Master/ChectTokenValidity/Exception:- Getting TokenHistory - Token might have already used or wrong token :- Token might have already used or wrong token
+12-06-2024 12:25:00 : Registration/InitializeVendorRegistration :- Token might have already used or wrong token
+12-06-2024 12:31:31 : Registration/InitializeVendorRegistration :- Index and length must refer to a location within the string. (Parameter 'length')
+12-06-2024 12:45:11 : Registration/InitializeVendorRegistration :- Index and length must refer to a location within the string. (Parameter 'length')
+12-06-2024 12:45:49 : Registration/InitializeVendorRegistration :- Index and length must refer to a location within the string. (Parameter 'length')
+12-06-2024 12:46:37 : Registration/InitializeVendorRegistration :- Index and length must refer to a location within the string. (Parameter 'length')
+12-06-2024 13:01:53 : AuthRespository/VendorLogin/ :-  :- Incorrect Username
+12-06-2024 13:02:22 : AuthRespository/VendorLogin/ :-  :- Incorrect Password
+12-06-2024 13:09:31 : Auth/GetToken:- Get Token Called
+12-06-2024 13:10:05 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+12-06-2024 13:10:05 : Auth/GetToken :- The user name or password is incorrect.
+12-06-2024 13:10:36 : Auth/GetToken:- Get Token Called
+12-06-2024 13:12:34 : AuthorizationServerProvider/GrantResourceOwnerCredentials :-  :- The user name or password is incorrect.
+12-06-2024 13:12:34 : Auth/GetToken :- The user name or password is incorrect.
+12-06-2024 13:12:34 : Auth/GetToken:- Get Token Called

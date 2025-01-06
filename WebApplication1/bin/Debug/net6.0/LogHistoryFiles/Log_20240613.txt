@@ -1,0 +1,20 @@
+13-06-2024 13:02:38 :- Registration link has been sent successfully from kamachi@exalca.com
+13-06-2024 13:02:41 :- Registration link has been sent successfully to kamachi@exalca.com
+13-06-2024 13:02:41 :-  sendmailstatusTrue
+13-06-2024 13:02:46 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for Zenex testing
+13-06-2024 14:44:34 :- Registration link has been sent successfully from kamachi@exalca.com
+13-06-2024 14:44:35 :- Registration link has been sent successfully to kamachi@exalca.com
+13-06-2024 14:44:35 :-  sendmailstatusTrue
+13-06-2024 14:44:36 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for frgtgh
+13-06-2024 14:45:52 :- Registration link has been sent successfully from kamachi@exalca.com
+13-06-2024 14:46:00 :- Registration link has been sent successfully to kamachi@exalca.com
+13-06-2024 14:46:00 :-  sendmailstatusTrue
+13-06-2024 14:46:01 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for hygtuj
+13-06-2024 14:47:41 :- Registration link has been sent successfully from kamachi@exalca.com
+13-06-2024 14:47:59 :- Registration link has been sent successfully to kamachi@exalca.com
+13-06-2024 14:47:59 :-  sendmailstatusTrue
+13-06-2024 14:48:00 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for frde
+13-06-2024 14:52:00 :- Registration link has been sent successfully from kamachi@exalca.com
+13-06-2024 14:52:01 :- Registration link has been sent successfully to kamachi@exalca.com
+13-06-2024 14:52:01 :-  sendmailstatusTrue
+13-06-2024 14:52:02 :- FactRepository/CreateVendorUser:- Error The remote server returned an error: (404) Not Found. for fre

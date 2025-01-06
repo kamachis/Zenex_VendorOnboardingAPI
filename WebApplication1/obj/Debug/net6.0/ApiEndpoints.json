@@ -1,0 +1,1408 @@
+[
+  {
+    "ContainingType": "Zenex.Controllers.AttachmentController",
+    "Method": "AddUserAttachment",
+    "RelativePath": "api/Attachment/AddUserAttachment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.AuthController",
+    "Method": "GetToken",
+    "RelativePath": "api/Auth/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.AuthController",
+    "Method": "vendorlogin",
+    "RelativePath": "api/Auth/vendorlogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vendorloginModel",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BVendorLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "AuthenticateUser",
+    "RelativePath": "api/Master/AuthenticateUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Master/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePassword",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BChangePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "changepassword",
+    "RelativePath": "api/Master/changepassword/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ForgotPassword",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BForgotPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "CreateApp",
+    "RelativePath": "api/Master/CreateApp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "app",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BApp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Master/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userWithRole",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BUserWithRole",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "DeleteApp",
+    "RelativePath": "api/Master/DeleteApp",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "app",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BApp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "FindClient",
+    "RelativePath": "api/Master/FindClient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BClient",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Master/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "forgotPassword",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BForgotPassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "GetAllApps",
+    "RelativePath": "api/Master/GetAllApps",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Authentication.Models.AuthMaster\u002BApp, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Master/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Authentication.Models.AuthMaster\u002BUserWithRole, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "GetAllUsersLoginHistory",
+    "RelativePath": "api/Master/GetAllUsersLoginHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Authentication.Models.AuthMaster\u002BUserLoginHistory, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "GetCurrentUserLoginHistory",
+    "RelativePath": "api/Master/GetCurrentUserLoginHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Authentication.Models.AuthMaster\u002BUserLoginHistory, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "LoginHistory",
+    "RelativePath": "api/Master/LoginHistory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "SendMailToApprover",
+    "RelativePath": "api/Master/SendMailToApprover",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vendor",
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPVendorOnBoardingView",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "SendResetLinkToMail",
+    "RelativePath": "api/Master/SendResetLinkToMail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailModel",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BEmailModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BUser",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "SignOut",
+    "RelativePath": "api/Master/SignOut",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "UpdateApp",
+    "RelativePath": "api/Master/UpdateApp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "app",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BApp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.MasterController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Master/UpdateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userWithRole",
+        "Type": "Zenex.Authentication.Models.AuthMaster\u002BUserWithRole",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "ChectTokenValidity",
+    "RelativePath": "api/Registration/ChectTokenValidity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenCheck",
+        "Type": "Zenex.Registration.Models.Registeration\u002BVendorTokenCheck",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "CreateBank",
+    "RelativePath": "api/Registration/CreateBank",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bank",
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPBank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "CreateVendorOnBoarding",
+    "RelativePath": "api/Registration/CreateVendorOnBoarding",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VendorOnBoarding",
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPVendorOnBoardingView",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "DeleteBank",
+    "RelativePath": "api/Registration/DeleteBank",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bank",
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPBank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "DeleteVendorOnBoarding",
+    "RelativePath": "api/Registration/DeleteVendorOnBoarding",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VendorOnBoarding",
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "DeleteVendorOnboardingById",
+    "RelativePath": "api/Registration/DeleteVendorOnboardingById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Transid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllApprovedVendorOnBoardings",
+    "RelativePath": "api/Registration/GetAllApprovedVendorOnBoardings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPVendorOnBoardingWithSapTransID, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllApprovedVendorOnBoardingsCount",
+    "RelativePath": "api/Registration/GetAllApprovedVendorOnBoardingsCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllBanks",
+    "RelativePath": "api/Registration/GetAllBanks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPBank, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllBanks",
+    "RelativePath": "api/Registration/GetAllBanks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPBank, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllOpenVendorOnBoardings",
+    "RelativePath": "api/Registration/GetAllOpenVendorOnBoardings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllOpenVendorOnBoardingsByApprover",
+    "RelativePath": "api/Registration/GetAllOpenVendorOnBoardingsByApprover",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Approver",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllOpenVendorOnBoardingsCount",
+    "RelativePath": "api/Registration/GetAllOpenVendorOnBoardingsCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllPendingVendorOnBoardings",
+    "RelativePath": "api/Registration/GetAllPendingVendorOnBoardings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Approver",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetAllVendorOnBoardings",
+    "RelativePath": "api/Registration/GetAllVendorOnBoardings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetBanksByVOB",
+    "RelativePath": "api/Registration/GetBanksByVOB",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TransID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPBank, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetCompanyAndAccount",
+    "RelativePath": "api/Registration/GetCompanyAndAccount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Registration.Models.Registeration\u002BAccountCode",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetGstDetails",
+    "RelativePath": "api/Registration/GetGstDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BGSTField, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetRegisteredVendorOnBoardings",
+    "RelativePath": "api/Registration/GetRegisteredVendorOnBoardings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetVendorOnBoardingsByEmailID",
+    "RelativePath": "api/Registration/GetVendorOnBoardingsByEmailID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmailID",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "GetVendorOnBoardingsByID",
+    "RelativePath": "api/Registration/GetVendorOnBoardingsByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TransID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPVendorOnBoarding",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "InitializeVendorRegistration",
+    "RelativePath": "api/Registration/InitializeVendorRegistration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vendorInitialzationClass",
+        "Type": "Zenex.Registration.Models.Registeration\u002BVendorInitialzationClass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "UpdateBank",
+    "RelativePath": "api/Registration/UpdateBank",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bank",
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPBank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "UpdateVendorOnBoarding",
+    "RelativePath": "api/Registration/UpdateVendorOnBoarding",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VendorOnBoarding",
+        "Type": "Zenex.Registration.Models.Registeration\u002BBPVendorOnBoardingView",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.RegistrationController",
+    "Method": "WelcomeMail",
+    "RelativePath": "api/Registration/WelcomeMail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vendordetails",
+        "Type": "Zenex.Registration.Models.Registeration\u002BVendorDetailsSample",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "CreateApp",
+    "RelativePath": "api/VendorMaster/CreateApp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "App",
+        "Type": "Zenex.Master.Models.Master\u002BCBPApp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "CreateBank",
+    "RelativePath": "api/VendorMaster/CreateBank",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bank",
+        "Type": "Zenex.Master.Models.Master\u002BCBPBank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "CreateIdentity",
+    "RelativePath": "api/VendorMaster/CreateIdentity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Identity",
+        "Type": "Zenex.Master.Models.Master\u002BCBPIdentity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "CreateTitle",
+    "RelativePath": "api/VendorMaster/CreateTitle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "Zenex.Master.Models.Master\u002BCBPTitle",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "DeleteApp",
+    "RelativePath": "api/VendorMaster/DeleteApp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "App",
+        "Type": "Zenex.Master.Models.Master\u002BCBPApp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "DeleteBank",
+    "RelativePath": "api/VendorMaster/DeleteBank",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bank",
+        "Type": "Zenex.Master.Models.Master\u002BCBPBank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "DeleteIdentity",
+    "RelativePath": "api/VendorMaster/DeleteIdentity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Identity",
+        "Type": "Zenex.Master.Models.Master\u002BCBPIdentity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "DeleteTitle",
+    "RelativePath": "api/VendorMaster/DeleteTitle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "Zenex.Master.Models.Master\u002BCBPTitle",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetAllApps",
+    "RelativePath": "api/VendorMaster/GetAllApps",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Master.Models.Master\u002BCBPApp, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetAllBanks",
+    "RelativePath": "api/VendorMaster/GetAllBanks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Master.Models.Master\u002BCBPBank, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetAllIdentities",
+    "RelativePath": "api/VendorMaster/GetAllIdentities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Master.Models.Master\u002BCBPIdentity, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetAllIdentityFields",
+    "RelativePath": "api/VendorMaster/GetAllIdentityFields",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Master.Models.Master\u002BCBPIdentity, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetAllIdentityTypes",
+    "RelativePath": "api/VendorMaster/GetAllIdentityTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetAllOnBoardingFieldMaster",
+    "RelativePath": "api/VendorMaster/GetAllOnBoardingFieldMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Master.Models.Master\u002BCBPFieldMaster, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetAllTitles",
+    "RelativePath": "api/VendorMaster/GetAllTitles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Master.Models.Master\u002BCBPTitle, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetBankByIFSC",
+    "RelativePath": "api/VendorMaster/GetBankByIFSC",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IFSC",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Master.Models.Master\u002BCBPBank",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetGspAuthToken",
+    "RelativePath": "api/VendorMaster/GetGspAuthToken",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Master.Models.Master\u002BGspAuthResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetIdentitiesByVOB",
+    "RelativePath": "api/VendorMaster/GetIdentitiesByVOB",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TransID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Zenex.Master.Models.Master\u002BIdentityAttachments, Zenex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetIdentitiesDeleteByVOB",
+    "RelativePath": "api/VendorMaster/GetIdentitiesDeleteByVOB",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TransID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Doctype",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Master.Models.Master\u002BIdentityAttachments",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetIdentityByType",
+    "RelativePath": "api/VendorMaster/GetIdentityByType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Master.Models.Master\u002BCBPIdentity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "GetRequest",
+    "RelativePath": "api/VendorMaster/GetRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "HostURI",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "UpdateApp",
+    "RelativePath": "api/VendorMaster/UpdateApp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "App",
+        "Type": "Zenex.Master.Models.Master\u002BCBPApp",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "UpdateBank",
+    "RelativePath": "api/VendorMaster/UpdateBank",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bank",
+        "Type": "Zenex.Master.Models.Master\u002BCBPBank",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "UpdateIdentity",
+    "RelativePath": "api/VendorMaster/UpdateIdentity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Identity",
+        "Type": "Zenex.Master.Models.Master\u002BCBPIdentity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "UpdateOnBoardingFieldMaster",
+    "RelativePath": "api/VendorMaster/UpdateOnBoardingFieldMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OnBoardingFieldMaster",
+        "Type": "Zenex.Master.Models.Master\u002BCBPFieldMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "UpdateTitle",
+    "RelativePath": "api/VendorMaster/UpdateTitle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "Zenex.Master.Models.Master\u002BCBPTitle",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenex.Controllers.VendorMasterController",
+    "Method": "ValidateIdentityByType",
+    "RelativePath": "api/VendorMaster/ValidateIdentityByType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdentityType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ID",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Zenex.Master.Models.Master\u002BCBPIdentity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
