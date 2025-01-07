@@ -86,6 +86,7 @@ namespace Zenex.Registration.Respository
             {
                 try
                 {
+                WriteLog.WriteToFile("GetAllApprovedVendorOnBoardings Entered");
                 /*var vendorOnboardings = _dbContext.BPVendorOnBoardings.Where(x => x.Status.ToLower() == "approved").ToList();
                 var vendorDetails = _dbContext.VendorDetails.ToList();
                 List<BPVendorOnBoardingWithSapTransID> res = new List<BPVendorOnBoardingWithSapTransID>();
@@ -127,7 +128,8 @@ namespace Zenex.Registration.Respository
                 }
                 catch (Exception ex)
                 {
-                    throw ex;
+                WriteLog.WriteToFile("GetAllApprovedVendorOnBoardings Entered", ex.Message);
+                throw ex;
                 }
             }
 
@@ -182,24 +184,32 @@ namespace Zenex.Registration.Respository
             {
                 try
                 {
-                    var result = _dbContext.BPVendorOnBoardings.Where(x => x.Status.ToLower() == "Initialized").ToList();
-                    return result;
+                WriteLog.WriteToFile(" GetAllOpenVendorOnBoardingsByApprover Entered");
+                var res = _dbContext.BPVendorOnBoardings.Where(x => x.Status.ToLower() == "initialized" || x.Status.ToLower() == "Initialized").ToList();
+                //var result = _dbContext.BPVendorOnBoardings.Where(x => x.Status.ToLower() == "initialized").ToList();
+                    return res;
                 }
                 catch (Exception ex)
                 {
-                    throw ex;
+                WriteLog.WriteToFile("GetAllOpenVendorOnBoardingsByApprover Entered", ex.Message);
+                WriteLog.WriteToFile("GetAllOpenVendorOnBoardingsByApprover Entered", ex.InnerException);
+                throw ex;
                 }
             }
         public List<BPVendorOnBoarding> GetAllOpenVendorOnBoardingsByPending(string Approver)
         {
             try
             {
-                var result = _dbContext.BPVendorOnBoardings.Where(x => x.Status.ToLower() == "Registered");
-                var res1 = result.ToList();
-                return res1;
+                WriteLog.WriteToFile("GetAllOpenVendorOnBoardingsByPending Entered");
+                var res = _dbContext.BPVendorOnBoardings.Where(x => x.Status.ToLower() == "registered" || x.Status.ToLower() == "Registered").ToList();
+                //var result = _dbContext.BPVendorOnBoardings.Where(x => x.Status.ToLower() == "registered");
+                //var res1 = result.ToList();
+                return res;
             }
             catch (Exception ex)
             {
+                WriteLog.WriteToFile("GetAllOpenVendorOnBoardingsByPending Entered", ex.Message);
+                WriteLog.WriteToFile("GetAllOpenVendorOnBoardingsByPending Entered", ex.InnerException);
                 throw ex;
             }
         }

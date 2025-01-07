@@ -90,8 +90,8 @@ namespace Zenex
                 //if (parentDirInfo != null)
                 //{
                 //string newBaseDirectory = parentDirInfo.FullName;
-                string newBaseDirectory = @"C:\\Exalca\\DotNet\\Projects\\Zenex\\WebApplication1\\bin";
-                string path = Path.Combine(newBaseDirectory, "LogHistoryFiles");
+                string path = @"C:\\inetpub\\wwwroot\\VendorOnBoarding\\Service\\LogFiles";
+                //string path = Path.Combine(newBaseDirectory, "LogHistoryFiles");
                     if (!Directory.Exists(path))
                     {
                         Directory.CreateDirectory(path);
@@ -101,13 +101,13 @@ namespace Zenex
                     string yday = ystrdy.ToString("yyyyMMdd");
                     string today = dt.ToString("yyyyMMdd");
                     string Log = today + ".txt";
-                    if (File.Exists(newBaseDirectory + "\\LogHistoryFiles\\Log_" + yday + ".txt"))
+                    if (File.Exists(path + "\\Log_" + yday + ".txt"))
                     {
                         System.GC.Collect();
                         System.GC.WaitForPendingFinalizers();
-                        File.Delete(newBaseDirectory + "\\LogHistoryFiles\\Log_" + yday + ".txt");
+                        File.Delete(path + "\\Log_" + yday + ".txt");
                     }
-                    sw = new StreamWriter(newBaseDirectory + "\\LogHistoryFiles\\Log_" + Log, true);
+                    sw = new StreamWriter(path + "\\Log_" + Log, true);
                     sw.WriteLine($"{DateTime.Now.ToString()} :- {Message}");
                     sw.Flush();
                     sw.Close();

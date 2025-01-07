@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uTBz9+h43qE=",
+  "dgSpecHash": "bliG1WTgCZc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Exalca.DESKTOP-7FNODV3\\Downloads\\Zenex 4\\Zenex\\WebApplication1\\Zenex.csproj",
+  "projectFilePath": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Zenex.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Exalca.DESKTOP-7FNODV3\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Exalca.DESKTOP-7FNODV3\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -133,6 +133,7 @@ namespace Zenex.Controllers
         {
             try
             {
+                WriteLog.WriteToFile("Entered");
                 var VendorOnBoardings = _VendorOnBoardingRepository.GetAllOpenVendorOnBoardingsByPending(Approver);
                 return VendorOnBoardings;
             }
