@@ -67,7 +67,7 @@ namespace Zenex.DBContext
 
         
 
-        public DbSet<Registration.Models.Registeration.BPVendorOnBoarding> BPVendorOnBoardings { get; set; }
+        public DbSet<BPVendorOnBoarding> BPVendorOnBoardings { get; set; }
         //public DbSet<Registration.Models.Registeration.BPIdentity> BPIdentities { get; set; }
         public DbSet<Registration.Models.Registeration.BPBank> BPBanks { get; set; }
 

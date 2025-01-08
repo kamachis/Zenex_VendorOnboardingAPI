@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Exalca.DESKTOP-7FNODV3\\Downloads\\Zenex 4\\Zenex\\WebApplication1\\Zenex.csproj": {}
+    "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Zenex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Exalca.DESKTOP-7FNODV3\\Downloads\\Zenex 4\\Zenex\\WebApplication1\\Zenex.csproj": {
+    "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Zenex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Exalca.DESKTOP-7FNODV3\\Downloads\\Zenex 4\\Zenex\\WebApplication1\\Zenex.csproj",
+        "projectUniqueName": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Zenex.csproj",
         "projectName": "Zenex",
-        "projectPath": "C:\\Users\\Exalca.DESKTOP-7FNODV3\\Downloads\\Zenex 4\\Zenex\\WebApplication1\\Zenex.csproj",
+        "projectPath": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Zenex.csproj",
         "packagesPath": "C:\\Users\\Exalca.DESKTOP-7FNODV3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Exalca.DESKTOP-7FNODV3\\Downloads\\Zenex 4\\Zenex\\WebApplication1\\obj\\",
+        "outputPath": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

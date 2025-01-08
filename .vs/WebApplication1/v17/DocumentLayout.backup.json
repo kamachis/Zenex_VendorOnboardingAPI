@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\respository\\vendoronboardingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\respository\\vendoronboardingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\dbcontext\\zenexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\dbcontext\\zenexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\writelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\writelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\irespository\\ivendoronboardingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\irespository\\ivendoronboardingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\respository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\respository\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\migrations\\20240327085245_master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\migrations\\20240327085245_master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\migrations\\20240327072725_registeration1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\migrations\\20240327072725_registeration1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\migrations\\20240327072725_registeration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\migrations\\20240327072725_registeration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|e:\\exalca\\zenex_vendoronboardingapi\\webapplication1\\controllers\\vendormastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4FA0A-BDCE-4AD3-9EEE-CC7CDBADA52E}|WebApplication1\\Zenex.csproj|solutionrelative:webapplication1\\controllers\\vendormastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZenexContext.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\DBContext\\ZenexContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DBContext\\ZenexContext.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\DBContext\\ZenexContext.cs",
+              "RelativeToolTip": "WebApplication1\\DBContext\\ZenexContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAhwEUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:24:08.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorOnBoardingRepository.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Respository\\VendorOnBoardingRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Respository\\VendorOnBoardingRepository.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Respository\\VendorOnBoardingRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Respository\\VendorOnBoardingRepository.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAuwNMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:03:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WriteLog.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\WriteLog.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WriteLog.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\WriteLog.cs",
+              "RelativeToolTip": "WebApplication1\\WriteLog.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAASwE8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:00:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RegistrationController.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:02:54.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVendorOnBoardingRepository.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\IRespository\\IVendorOnBoardingRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\IRespository\\IVendorOnBoardingRepository.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\IRespository\\IVendorOnBoardingRepository.cs",
+              "RelativeToolTip": "WebApplication1\\IRespository\\IVendorOnBoardingRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:56:15.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Respository\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Respository\\ServiceRepository.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Respository\\ServiceRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Respository\\ServiceRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:02:56.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240327085245_Master.Designer.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Migrations\\20240327085245_Master.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240327085245_Master.Designer.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Migrations\\20240327085245_Master.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240327085245_Master.Designer.cs",
+              "ViewState": "AgIAAC4FAAAAAAAAAAAAAC4FAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:02:48.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240327072725_Registeration1.Designer.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Migrations\\20240327072725_Registeration1.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240327072725_Registeration1.Designer.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Migrations\\20240327072725_Registeration1.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240327072725_Registeration1.Designer.cs",
+              "ViewState": "AgIAAGwDAAAAAAAAAAAAAGwDAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:02:46.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240327072725_Registeration1.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Migrations\\20240327072725_Registeration1.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240327072725_Registeration1.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Migrations\\20240327072725_Registeration1.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240327072725_Registeration1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAEwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:02:43.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendorMasterController.cs",
+              "DocumentMoniker": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Controllers\\VendorMasterController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\VendorMasterController.cs",
+              "ToolTip": "E:\\Exalca\\Zenex_VendorOnboardingAPI\\WebApplication1\\Controllers\\VendorMasterController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\VendorMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:01:17.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
