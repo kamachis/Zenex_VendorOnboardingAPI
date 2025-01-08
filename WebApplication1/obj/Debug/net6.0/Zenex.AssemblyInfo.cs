@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zenex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754f75f852942f99c30338705e494b5cd1c5f25d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf374a3b8e19c99b2b038594ea41d1adf74348de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zenex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zenex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
